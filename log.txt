@@ -1,0 +1,17 @@
+Vklad 30 na účet 42372
+Vklad 30000 na účet 42372
+Výběr 30000 z účtu 42372
+Výběr 30 z účtu 42372
+Účet 42372 byl odstraněn
+Účet 78297 byl odstraněn
+Vytvořen účet 83071 s bankou 10.0.0.59
+Vytvořen účet 44975 s bankou 10.0.0.59
+Vytvořen účet 13601 s bankou 10.0.0.59
+[17:22:34] Vytvořen účet 80557 s bankou 10.0.0.59
+[17:22:47] Vklad 300 na účet 80557
+[17:23:30] Výběr 300 z účtu 80557
+[17:23:53] Účet 80557 byl odstraněn
+[17:23:56] Vytvořen účet 46202 s bankou 10.0.0.59
+[17:24:12] Vklad 100 na účet 46202
+[17:24:30] Výběr 100 z účtu 46202
+[17:24:33] Účet 46202 byl odstraněn
